@@ -20,3 +20,7 @@ env/
 
 # Testing cache
 .pytest_cache/
+
+# Local analysis data
+analysis_results.jsonl
+practice.txt
